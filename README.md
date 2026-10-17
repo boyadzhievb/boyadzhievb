@@ -1,7 +1,7 @@
 ## Hi there 👋
 ###  I'm Bozhan Boyadzhiev
 
-**Senior SRE / DevOps Engineer** at Flutter International (PokerStars)
+**Senior SRE / DevOps Engineer** 
 
 Building and operating the platform infrastructure behind one of the world's largest online poker platforms. 5+ years across the full stack — from bare metal Linux to Kubernetes in production.
 
