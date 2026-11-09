@@ -23,7 +23,11 @@ Building and operating production infrastructure behind one of the world's large
 
 - **[iptables-viewer](https://github.com/boyadzhievb/iptables-viewer)** — A Kubernetes iptables explorer that turns node firewall rules into an interactive Cytoscape graph. Includes a token-protected API, Docker support, and a Kubernetes DaemonSet deployment.
 
-- **[Property Rental](https://github.com/boyadzhievb/property-rental)** — An offline-first property management app for short-term rentals: rooms, guests, reservations, payments, housekeeping, and reports. Built with React and TypeScript; data stays on-device in IndexedDB, with no backend or telemetry. [Open the app](https://boyadzhievb.github.io/property-rental/).
+- **[Property Rental](https://github.com/boyadzhievb/property-rental)** — An offline-first property management application for short-term rentals. Built with React, TypeScript, and Capacitor. All data stays on-device in IndexedDB, with no backend or telemetry. Available as a web app and native Android/iOS applications.
+
+  - [🌐 Web App](https://boyadzhievb.github.io/property-rental/)
+  - [🤖 Google Play](https://play.google.com/store/apps/details?id=com.boyadboz.propertyrental)
+  - [🍎 Apple App Store](https://apps.apple.com/us/app/property-rental/id6814568129)
 
 ## Open source
 
